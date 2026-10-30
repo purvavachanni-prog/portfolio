@@ -1,0 +1,226 @@
+---
+name: Warm Editorial Craft
+colors:
+  surface: '#fff8f5'
+  surface-dim: '#e1d8d4'
+  surface-bright: '#fff8f5'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#fbf2ed'
+  surface-container: '#f5ece7'
+  surface-container-high: '#efe6e2'
+  surface-container-highest: '#e9e1dc'
+  on-surface: '#1e1b18'
+  on-surface-variant: '#53443d'
+  inverse-surface: '#34302c'
+  inverse-on-surface: '#f8efea'
+  outline: '#85736c'
+  outline-variant: '#d8c2ba'
+  surface-tint: '#8a4f33'
+  primary: '#8a4f33'
+  on-primary: '#ffffff'
+  primary-container: '#c88363'
+  on-primary-container: '#4d1f07'
+  inverse-primary: '#ffb694'
+  secondary: '#58624e'
+  on-secondary: '#ffffff'
+  secondary-container: '#d9e3ca'
+  on-secondary-container: '#5c6652'
+  tertiary: '#904c2e'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#cf7f5d'
+  on-tertiary-container: '#501b03'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#ffdbcc'
+  primary-fixed-dim: '#ffb694'
+  on-primary-fixed: '#351000'
+  on-primary-fixed-variant: '#6d381e'
+  secondary-fixed: '#dce6cd'
+  secondary-fixed-dim: '#c0cab2'
+  on-secondary-fixed: '#161e0f'
+  on-secondary-fixed-variant: '#404a37'
+  tertiary-fixed: '#ffdbcd'
+  tertiary-fixed-dim: '#ffb598'
+  on-tertiary-fixed: '#360f00'
+  on-tertiary-fixed-variant: '#723519'
+  background: '#fff8f5'
+  on-background: '#1e1b18'
+  surface-variant: '#e9e1dc'
+typography:
+  display-hero:
+    fontFamily: Playfair Display
+    fontSize: 4rem
+    fontWeight: '400'
+    lineHeight: 4.5rem
+    letterSpacing: -0.02em
+  display-hero-mobile:
+    fontFamily: Playfair Display
+    fontSize: 2.5rem
+    fontWeight: '400'
+    lineHeight: 2.875rem
+    letterSpacing: -0.01em
+  headline-xl:
+    fontFamily: Playfair Display
+    fontSize: 2.75rem
+    fontWeight: '500'
+    lineHeight: 3.25rem
+    letterSpacing: -0.015em
+  headline-xl-mobile:
+    fontFamily: Playfair Display
+    fontSize: 2rem
+    fontWeight: '500'
+    lineHeight: 2.375rem
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Playfair Display
+    fontSize: 2rem
+    fontWeight: '500'
+    lineHeight: 2.5rem
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 1.375rem
+    fontWeight: '600'
+    lineHeight: 1.875rem
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 1.125rem
+    fontWeight: '600'
+    lineHeight: 1.5rem
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 1.125rem
+    fontWeight: '400'
+    lineHeight: 1.75rem
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 1rem
+    fontWeight: '400'
+    lineHeight: 1.625rem
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 0.875rem
+    fontWeight: '400'
+    lineHeight: 1.375rem
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 0.8125rem
+    fontWeight: '600'
+    lineHeight: 1.125rem
+    letterSpacing: 0.04em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 0.6875rem
+    fontWeight: '600'
+    lineHeight: 0.875rem
+    letterSpacing: 0.06em
+  code-tech:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 0.8125rem
+    fontWeight: '500'
+    lineHeight: 1.25rem
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-lg: 2.5rem
+  margin: 1.25rem
+  margin-md: 2.5rem
+  margin-lg: 4rem
+  space-xs: 0.375rem
+  space-sm: 0.75rem
+  space-md: 1.25rem
+  space-lg: 2rem
+  space-xl: 3.5rem
+---
+
+## Brand & Style
+
+This design system establishes an editorial, high-craft digital canvas for an AI/ML Engineer and Full-Stack Developer. It breaks away from stereotypical stark, cold-blue "cyber" portfolios by anchoring cutting-edge technical expertise in physical tactility, warm architectural neutrality, and typographic distinction.
+
+The visual style blends **Warm Editorial Minimalism** with **Tactile Modernism**:
+- **Personality:** Intellectual, disciplined, discerning, artisanal yet hyper-competent in distributed systems and intelligent models.
+- **Audience:** Engineering executives, design-conscious technical founders, high-growth AI labs, and technical hiring teams seeking high-agency engineers with aesthetic mastery.
+- **Emotional Impact:** Quiet confidence, calm intellectual rigor, and tactile clarity. The layout evokes architectural monographs and boutique design journals rather than generic software templates.
+
+## Colors
+
+The palette relies on organic, pigment-inspired neutrals calibrated for prolonged readability and soft high-end contrast.
+
+- **Background Canvas (`#FBF9F5`):** Unbleached parchment/warm linen. Provides a tranquil, paper-like base that prevents display fatigue.
+- **Elevated Surfaces (`#F4F0EA`):** Dense warm ecru/clay tint for structural cards, side panels, and content groupings.
+- **Primary Typography & Deep Neutral (`#2C2825`):** Roasted espresso charcoal. Delivers sharp contrast while remaining softer and more human than absolute `#000000`.
+- **Secondary Neutral (`#665E57`):** Muted umber for body copy, meta dates, and descriptive architectural captions.
+- **Primary Accent (`#C88363`):** Sunbaked terracotta/warm bronze. Used selectively for active tab states, critical CTAs, active focal anchors, and signature metrics.
+- **Secondary Highlight (`#707A65`):** Dry olive sage. Signifies production readiness, live model status, environment chips, and passive analytical highlights.
+- **Borders & Dividers (`#E7E0D8`):** Low-contrast structural clay lines that demarcate content without visual noise.
+
+## Typography
+
+The typography pairs an editorial display serif with a clean, structural sans-serif to mirror the hybrid nature of the engineer: artistic system design backed by robust runtime implementation.
+
+- **Editorial Headings (`Playfair Display`):** Reserved for case study narratives, project titles, philosophy headers, and display metrics. It delivers organic authority and literary polish.
+- **Engineered Sans (`Plus Jakarta Sans`):** Anchors UI hierarchies, technical documentation, architectural subheads, metrics, body paragraphs, and functional controls.
+- **Rules of Application:**
+  - Do not use Playfair Display below `headline-lg` (`2rem`) to maintain legibility.
+  - Apply uppercase tracking (`letterSpacing: 0.04em - 0.06em`) strictly to `label-md` and `label-sm` when designating category tags, stack indicators, and status trackers.
+
+## Layout & Spacing
+
+The system runs on an asymmetrical, rhythm-focused 12-column layout that prioritizes whitespace as a functional element.
+
+- **Grid Architecture:**
+  - **Desktop (≥1200px):** 12 columns with `2.5rem` gutters, bounded by a max container width of `1320px` and `4rem` outer canvas margins. Project grids utilize split layouts (e.g., 5-column technical narrative pairing with 7-column architectural interactive demos).
+  - **Tablet (768px - 1199px):** 8 columns with `1.5rem` gutters and `2.5rem` margins. Complex tables and architecture diagrams convert to horizontal scroll surfaces or single-column stacked blocks.
+  - **Mobile (<768px):** 4 columns with `1rem` gutters and `1.25rem` margins.
+- **Vertical Rhythm:** Spacing between distinct editorial sections scales across `space-xl` and extended multiples (`5rem` to `7rem`), ensuring every project case study breathes like a physical gallery monograph.
+
+## Elevation & Depth
+
+This design system avoids dark drop-shadows and plastic gradients, utilizing **Tonal Stratification** and **Subtle Clay Light-Catching**:
+
+- **Ground Canvas:** `#FBF9F5` (Base substrate).
+- **Surface Tier 1 (Cards, Code Blocks, Nav Bars):** `#F4F0EA` layered atop the substrate, bound by a crisp `1px` stroke of `#E7E0D8`.
+- **Surface Tier 2 (Floating Popovers, Interactive Drawers, Modals):** `#FFFFFF` paired with an ambient warmth-tinted shadow: `0 12px 32px -8px rgba(44, 40, 37, 0.06), 0 2px 6px -1px rgba(44, 40, 37, 0.02)`.
+- **Frosted Clay (Navigation & Persistent HUD):** `rgba(251, 249, 245, 0.85)` background with an `8px` gaussian blur (`backdrop-filter: blur(8px)`) and a bottom hairline border in `#E7E0D8`.
+- **Active State Elevation:** Interactive project cards displace vertically by `-2px` on hover while softening the boundary border to `#C88363` at 40% opacity, rather than projecting standard drop shadows.
+
+## Shapes
+
+The design system employs a **Soft Architectural Boundary (`roundedness: 1`)**.
+
+- **Base Radius (`0.25rem` / `4px`):** Used for technical inline badges, code snippets, micro indicators, and status pips.
+- **Component Radius (`0.5rem` / `8px`):** Used for standard buttons, text inputs, segmented project controls, and technical detail disclosures.
+- **Card & Container Radius (`0.75rem` / `12px`):** Applied to major project showcase cards, architecture diagram enclosures, and terminal containers.
+- **Capsule Contours:** Pill radii are applied solely to binary live/offline model indicators and meta-filter tags.
+
+## Components
+
+### Buttons & Interactive Links
+- **Primary CTA:** Solid `#2C2825` fill, `#FBF9F5` text, `0.5rem` border radius. On hover, background transitions smoothly to `#C88363` with no scale alteration.
+- **Secondary CTA:** `#F4F0EA` background, `1px` border in `#E7E0D8`, text in `#2C2825`. On hover, border shifts to `#C88363` and surface transitions to `#FFFFFF`.
+- **Text Link:** `#2C2825` with an offset terracotta underline (`#C88363` at 60% opacity) that animates to 100% width on hover.
+
+### Chips, Pills & Tech Badges
+- **Skill / Model Badges:** Micro surfaces with `#F4F0EA` fill, `1px` border in `#E7E0D8`, uppercase `label-sm` text in `#665E57`.
+- **Status Pills (Live Inference / Deployment):** Pill contour using an olive/sage accent. Fill `rgba(112, 122, 101, 0.12)`, text `#707A65`, with a pulsating `6px` solid dot in `#707A65`.
+
+### Project & Research Cards
+- **Architecture:** `#F4F0EA` card surface bounded by `#E7E0D8`. Padding is generous (`space-lg`).
+- **Composition:** Asymmetric card split with an upper technical metadata tier (model parameters, deployment latency, framework stack) set in `code-tech`, followed by an editorial headline in `headline-lg`, concise summary in `body-sm`, and an embedded media/demo surface.
+
+### Input Fields & Search Bars
+- **States:** Height `44px`, base background `#FBF9F5`, border `1px solid #E7E0D8`, text `#2C2825`, placeholder `#A59E97`.
+- **Focus:** Crisp `1px solid #C88363` with an outline ring of `3px rgba(200, 131, 99, 0.15)`.
+
+### Code Blocks & Architecture Inspection Surfaces
+- **Base:** `#262320` deep charcoal container with `#E7E0D8` low-opacity borders for technical contrasts.
+- **Syntax Styling:** Warm earth-toned syntax highlights (sand `#E6DFD5`, bronze `#E09A7A`, and muted sage `#9DA892`).
